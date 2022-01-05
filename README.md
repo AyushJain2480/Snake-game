@@ -14,4 +14,4 @@ Each time the snake eats a piece of food, its tail
 grows longer, making the game increasingly
 difficult. The user controls the direction of
 the snake's head (up, down, left, or right),
-and the snake's body follows.
+and the snake's body follows and press space bar to pause .
