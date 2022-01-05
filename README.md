@@ -15,3 +15,7 @@ grows longer, making the game increasingly
 difficult. The user controls the direction of
 the snake's head (up, down, left, or right),
 and the snake's body follows and press space bar to pause the game.
+
+##Screenshots
+
+![Play Screen](https://raw.githubusercontent.com/AyushJain2480/Snake-game/main/images/Snake.PNG)
